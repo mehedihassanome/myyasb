@@ -217,7 +217,12 @@
     padding-left: 4px;
 }
 
+
+/* WINDOWS 11 START BUTTON - Light Mode */
+
+
 .win-button-widget .label {
+    color: #0078d4 !important;
     font-size: 18px;
 }
 
@@ -464,4 +469,10 @@
 *.dark .pomodoro-menu .button:hover {
     background-color: rgb(55, 56, 75);
     color: #ffffff;
+}
+
+/* WINDOWS 11 START BUTTON - Dark Mode */
+
+*.dark .win-button-widget .label {
+    color: #0078d4 !important;
 }
