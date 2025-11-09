@@ -1,0 +1,479 @@
+/* ============================================
+   LIGHT MODE (Default)
+   ============================================ */
+
+* {
+	font-size: 13px;
+	color: #3b4252;
+	font-weight: 600;
+	font-family: "Segoe UI","JetBrainsMono NFP";
+	margin: 0;
+	padding: 0;
+}
+
+.yasb-bar {
+	padding: 0 8px;
+	margin: 0;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.widget {
+	padding: 0 8px;
+	margin: 0;
+}
+
+.widget .label {
+	padding: 0px 2px 2px 2px;
+}
+
+.widget .label.alt {
+	padding: 1px 8px 1px 8px;
+}
+
+.komorebi-workspaces,
+.komorebi-active-layout  {
+    margin: 0;
+    padding: 0;
+}
+
+.komorebi-workspaces .ws-btn {
+	font-size: 16px;
+    background-color: transparent;
+	margin: 0 4px 0 4px;
+	color: #4c566a;
+}
+
+.komorebi-workspaces .ws-btn.populated {
+	color: #3b4252;
+}
+
+.komorebi-workspaces .ws-btn:hover,
+.komorebi-workspaces .ws-btn.populated:hover,
+.komorebi-workspaces .ws-btn.active {
+	color: #2e3440;
+}
+
+.apps-widget {
+    padding: 0 4px;
+}
+
+.apps-widget .widget-container {
+    background-color: rgba(0, 0, 0, 0.1);
+    margin: 5px 0 4px 0;
+    border-radius: 13px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.apps-widget .label {
+	font-size: 14px;
+	padding:0px 2px 1px 2px;
+}
+
+.apps-widget .label:hover {
+	color: #2e3440;
+}
+
+.active-window-widget .icon {
+    padding: 0 0 0 0;
+}
+
+/* POWER MENU WIDGET */
+.uptime {
+	font-size: 14px;
+	margin-bottom: 10px;
+	color: #2e3440;
+	font-weight: 600;
+	font-family: "Segoe UI";
+}
+
+.power-menu-widget .label {
+	color: #3b4252;
+	font-size: 13px;
+}
+
+.power-menu-popup {
+	background-color: rgba(255, 255, 255, 0.95);
+	border-radius: 12px;
+	border: 4px solid rgb(220, 220, 220);
+}
+
+.power-menu-popup .button {
+	padding: 0;
+	width: 240px;
+	height: 120px;
+	border-radius: 8px;
+	background-color: rgb(240, 240, 240);
+	font-family: "Segoe UI";
+	color: #000000;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	margin: 8px;
+}
+
+.power-menu-popup .button.hover {
+	background-color: rgb(230, 230, 230);
+	border: 1px solid rgb(200, 200, 200);
+}
+
+.power-menu-popup .button .label {
+	margin-bottom: 8px;
+	font-size: 16px;
+	font-weight: 600;
+	color: #000000;
+	font-family: "Segoe UI";
+}
+
+.power-menu-popup .button .icon {
+	font-size: 48px;
+	padding-top: 8px;
+	color: rgba(0, 0, 0, 0.4);
+}
+
+.power-menu-popup .button.cancel .icon,
+.power-menu-popup .button.shutdown .icon {
+	color: rgba(0, 0, 0, 0.5);
+}
+
+.power-menu-popup .button.cancel .label,
+.power-menu-popup .button.shutdown .label {
+	color: #000000;
+}
+
+/* ICONS */
+.icon {
+	font-size: 16px;
+}
+
+.volume-widget .icon {
+	color: #000000;
+	margin: 1px 2px 0 0;
+}
+ 
+/* WEATHER WIDGET */
+.weather-widget .icon {
+	font-size: 16px;
+	margin: 0 2px 1px 0;
+	color: #000000;
+}
+
+.weather-widget .icon.sunnyDay {
+	color: #000000;
+}
+
+.weather-widget .icon.clearNight {
+	color: #000000;
+	font-size: 22px;
+	margin: 1px 2px 0px 0;
+}
+
+/* MEDIA WIDGET */
+.media-widget {
+	padding: 0;
+	padding-left: 2px;
+	margin: 0;
+	border-radius: 16px;
+	margin-right: 8px;
+}
+
+.media-widget .label {
+	background-color: rgba(0, 0, 0, 0.0);
+}
+
+.media-widget .btn {
+	color: #000000;
+	padding: 0 3px;
+	margin: 4px 0;
+    font-weight: 500;
+	font-family: Segoe Fluent Icons;
+}
+
+.media-widget .btn:hover {
+	color: #000000;
+}
+
+.media-widget .btn.play {
+	background-color: rgba(0, 0, 0, 0.1);
+	border-radius: 14px;
+	font-size: 16px;
+}
+
+.media-widget .btn.disabled:hover,
+.media-widget .btn.disabled {
+	color: #808080;
+	font-size: 12px;
+	background-color: rgba(0, 0, 0, 0);
+}
+
+/* TASKBAR WIDGET */
+.taskbar-widget {
+    padding: 0;
+    margin: 0;
+}
+
+.taskbar-widget .app-container {
+    padding:0 6px;
+}
+
+.taskbar-widget .app-container .app-title {
+    padding-left: 4px;
+}
+
+
+/* WINDOWS 11 START BUTTON - Light Mode */
+
+
+.win-button-widget .label {
+    color: #0078d4 !important;
+    font-size: 18px;
+}
+
+/* WINDOWS 11 START BUTTON - Dark Mode */
+
+*.dark .win-button-widget .label {
+    color: #0078d4 !important;
+}
+
+/* POMODORO WIDGET */
+.pomodoro-widget {
+    padding: 0 8px;
+    margin: 0 4px;
+}
+
+.pomodoro-widget .label {
+    font-family: "Segoe UI","JetBrainsMono NFP";
+    font-size: 13px;
+    font-weight: 600;
+    color: #3b4252;
+    padding: 0px 2px;
+	
+}
+
+.pomodoro-widget .icon {
+    font-size: 14px;
+    margin-right: 4px;
+    color: #000000;
+}
+
+.pomodoro-widget .label.work,
+.pomodoro-widget .icon.work {
+    color: #000000;
+}
+
+.pomodoro-widget .label.break,
+.pomodoro-widget .icon.break {
+    color: #000000;
+}
+
+.pomodoro-widget .label.paused,
+.pomodoro-widget .icon.paused {
+    color: #000000;
+    opacity: 0.7;
+}
+
+/* POMODORO MENU */
+.pomodoro-menu {
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+.pomodoro-menu .header {
+    font-family: "Segoe UI","JetBrainsMono NFP";
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+    padding: 8px;
+}
+
+.pomodoro-menu .status {
+    font-family: "Segoe UI","JetBrainsMono NFP";
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.pomodoro-menu .button {
+    background-color: rgb(240, 240, 240);
+    color: #000000;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin: 4px;
+    font-family: "Segoe UI","JetBrainsMono NFP";
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.pomodoro-menu .button:hover {
+    background-color: rgb(230, 230, 230);
+    color: #000000;
+}
+
+
+/* ============================================
+   DARK MODE
+   ============================================ */
+
+*.dark * {
+	color: #cdd6f4;
+}
+
+*.dark .label {
+	color: #cdd6f4;
+}
+
+.yasb-bar.dark {
+    background-color: rgba(30, 30, 46, 0.25);
+}
+
+*.dark .komorebi-workspaces .ws-btn {
+	color: #95a0ad;
+}
+
+*.dark .komorebi-workspaces .ws-btn.populated {
+	color: #a0c3ee;
+}
+
+*.dark .komorebi-workspaces .ws-btn:hover,
+*.dark .komorebi-workspaces .ws-btn.populated:hover,
+*.dark .komorebi-workspaces .ws-btn.active {
+	color: #c2daf7;
+}
+
+*.dark .apps-widget .widget-container {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+*.dark .apps-widget .label:hover {
+	color: #fff;
+}
+
+*.dark .uptime {
+	color: #ffffff;
+}
+
+*.dark .power-menu-widget .label {
+	color: #f38ba8;
+}
+
+*.dark .power-menu-popup {
+	background-color: rgba(24, 24, 37, 0.9);
+	border: 4px solid rgb(41, 42, 58);
+}
+
+*.dark .power-menu-popup .button {
+	background-color: rgb(41, 42, 58);
+	color: white;
+	border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+*.dark .power-menu-popup .button.hover {
+	background-color: rgb(55, 56, 75);
+	border: 1px solid rgb(55, 56, 75);
+}
+
+*.dark .power-menu-popup .button .label {
+	color: rgba(255, 255, 255, 0.95);
+}
+
+*.dark .power-menu-popup .button .icon {
+	color: rgba(255, 255, 255, 0.25);
+}
+
+*.dark .power-menu-popup .button.cancel .icon {
+	color: rgba(137, 180, 250, 0.55);
+}
+
+*.dark .power-menu-popup .button.cancel .label {
+	color: rgba(137, 180, 250, 0.95);
+}
+
+*.dark .power-menu-popup .button.shutdown .icon {
+	color: rgba(243, 139, 168, 0.55);
+}
+
+*.dark .power-menu-popup .button.shutdown .label {
+	color: rgba(243, 139, 168, 0.95);
+}
+
+*.dark .volume-widget .icon {
+	color: #89b4fa;
+}
+
+*.dark .weather-widget .icon {
+	color: rgb(221, 210, 107);
+}
+
+*.dark .weather-widget .icon.sunnyDay {
+	color: rgb(221, 210, 107);
+}
+
+*.dark .weather-widget .icon.clearNight {
+	color: rgb(107, 189, 221);
+}
+
+*.dark .media-widget .btn {
+	color: #acb2c9;
+}
+
+*.dark .media-widget .btn:hover {
+	color: #ffffff;
+}
+
+*.dark .media-widget .btn.play {
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+*.dark .media-widget .btn.disabled:hover,
+*.dark .media-widget .btn.disabled {
+	color: #7d8297;
+}
+
+*.dark .pomodoro-widget .label {
+    color: #cdd6f4;
+}
+
+*.dark .pomodoro-widget .icon {
+    color: #cdd6f4;
+}
+
+*.dark .pomodoro-widget .label.work,
+*.dark .pomodoro-widget .icon.work {
+    color: #cdd6f4;
+}
+
+*.dark .pomodoro-widget .label.break,
+*.dark .pomodoro-widget .icon.break {
+    color: #cdd6f4;
+}
+
+*.dark .pomodoro-widget .label.paused,
+*.dark .pomodoro-widget .icon.paused {
+    color: #cdd6f4;
+    opacity: 0.7;
+}
+
+*.dark .pomodoro-menu {
+    background-color: rgba(24, 24, 37, 0.9);
+    border: 1px solid rgba(76, 86, 106, 0.3);
+}
+
+*.dark .pomodoro-menu .header {
+    color: #cdd6f4;
+}
+
+*.dark .pomodoro-menu .status {
+    color: #cdd6f4;
+}
+
+*.dark .pomodoro-menu .button {
+    background-color: rgb(41, 42, 58);
+    color: #cdd6f4;
+    border: 1px solid rgba(94, 129, 172, 0.3);
+}
+
+*.dark .pomodoro-menu .button:hover {
+    background-color: rgb(55, 56, 75);
+    color: #ffffff;
+}
