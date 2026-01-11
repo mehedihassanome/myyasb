@@ -1801,3 +1801,18 @@
 2026-01-11 13:38:22,469 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
 2026-01-11 13:38:22,469 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
 2026-01-11 13:38:22,470 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-11 16:13:02,186 [ERROR] [MainThread] [root/bar_manager.py:56]: Error loading config: while scanning a simple key
+  in "C:\Users\Blueberry\.config\yasb\config.yaml", line 313, column 1
+could not find expected ':'
+  in "C:\Users\Blueberry\.config\yasb\config.yaml", line 314, column 17
+2026-01-11 16:14:08,526 [INFO] [MainThread] [root/controller.py:15]: Reloading Bar from context menu...
+2026-01-11 16:14:08,628 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-11 16:14:08,629 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-11 16:14:08,952 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-11 16:14:08,954 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-01-11 16:14:08,981 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-11 16:14:08,989 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-11 16:14:09,002 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-11 16:14:09,604 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-11 16:14:09,604 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-11 16:14:09,605 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
