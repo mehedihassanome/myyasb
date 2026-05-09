@@ -311,7 +311,7 @@ widgets:
   glazewm_workspaces:
     type: "glazewm.workspaces.GlazewmWorkspacesWidget"
     options:
-      offline_label: "GlazeWM Offline"
+      offline_label: "🎲"
       hide_empty_workspaces: false
       hide_if_offline: false
       enable_scroll_switching: true
