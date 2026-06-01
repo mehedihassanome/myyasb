@@ -4344,3 +4344,1083 @@ Current thread's C stack trace (most recent call first):
 2026-05-09 16:27:07,577 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
 2026-05-09 16:27:07,938 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
 2026-05-09 16:27:16,245 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-10 02:02:51,392 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-05-10 02:02:51,507 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-10 02:02:51,740 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-10 02:02:51,750 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-17 21:34:05,074 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-17 21:34:05,076 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-17 21:34:05,077 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-17 21:34:05,351 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-17 21:34:05,351 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-17 21:34:05,714 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-17 21:34:05,715 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-17 21:34:07,931 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-17 21:34:08,172 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-17 21:34:08,249 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-17 21:34:08,594 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-17 21:34:08,597 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-17 21:34:08,598 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-17 21:34:08,599 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-17 21:34:08,945 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-17 21:34:17,257 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-17 22:05:33,979 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-17 22:05:33,982 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-17 22:05:33,982 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-17 22:05:34,259 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-17 22:05:34,259 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-17 22:05:34,649 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-17 22:05:34,649 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-17 22:05:36,917 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-17 22:05:37,116 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-17 22:05:37,192 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-17 22:05:37,524 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-17 22:05:37,528 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-17 22:05:37,530 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-17 22:05:37,531 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-17 22:05:37,901 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-17 22:05:46,190 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               2026-05-17 22:09:22,968 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-17 22:09:22,971 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-17 22:09:22,973 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-17 22:09:23,388 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-17 22:09:23,388 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-17 22:09:24,153 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-17 22:09:24,153 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-17 22:09:27,558 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-17 22:09:27,857 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-17 22:09:27,968 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-17 22:09:29,254 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-17 22:09:29,259 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-17 22:09:29,261 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-17 22:09:29,262 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-17 22:09:29,849 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-17 22:09:38,312 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-17 22:15:23,961 [INFO] [MainThread] [root/bar_manager.py:96]: Screens updated. Re-initialising all bars.
+2026-05-17 22:15:23,961 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of screen update.
+2026-05-17 22:15:24,065 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-17 22:15:24,195 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-17 22:15:24,196 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-17 22:15:24,812 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-17 22:15:24,813 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-17 22:15:24,813 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-17 22:15:24,865 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-17 22:15:24,865 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-17 22:15:24,937 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-17 22:15:24,937 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-17 22:15:25,634 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-17 22:15:25,698 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-17 22:15:25,752 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-17 22:15:26,059 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-17 22:15:26,062 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-17 22:15:26,065 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-17 22:15:26,066 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-17 22:15:26,084 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-17 22:15:34,273 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-18 00:55:27,615 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.RemoteHostClosedError. Reconnecting...
+2026-05-18 00:59:42,865 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-18 00:59:42,913 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-20 23:37:52,380 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-20 23:37:52,386 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-20 23:37:52,386 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-20 23:37:52,741 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-20 23:37:52,741 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-20 23:37:53,226 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-20 23:37:53,226 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-20 23:37:56,029 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-20 23:37:56,210 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-20 23:37:56,275 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-20 23:37:56,635 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-20 23:37:56,638 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-20 23:37:56,639 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-20 23:37:56,639 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-20 23:37:56,965 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-20 23:38:05,273 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-21 00:46:17,518 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-21 00:46:17,568 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-22 14:44:54,807 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-22 14:44:54,810 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-22 14:44:54,810 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-22 14:44:55,098 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-22 14:44:55,098 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-22 14:44:55,522 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-22 14:44:55,522 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-22 14:44:57,084 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-22 14:44:57,371 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-22 14:44:57,440 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-22 14:44:57,776 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-22 14:44:57,783 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-22 14:44:57,786 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-22 14:44:57,787 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-22 14:44:58,235 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-22 14:45:06,558 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-22 15:38:17,360 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-22 15:38:17,403 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-23 22:06:05,910 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-23 22:06:05,913 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-23 22:06:05,913 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-23 22:06:06,211 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-23 22:06:06,211 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-23 22:06:06,637 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-23 22:06:06,637 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-23 22:06:09,232 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-23 22:06:09,432 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-23 22:06:09,497 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-23 22:06:09,785 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-23 22:06:09,789 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-23 22:06:09,790 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-23 22:06:09,790 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-23 22:06:10,180 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-23 22:06:18,466 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-23 22:48:16,648 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-23 22:48:16,679 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-23 22:49:41,246 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-23 22:49:41,248 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-23 22:49:41,249 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-23 22:49:41,528 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-23 22:49:41,528 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-23 22:49:42,056 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-23 22:49:42,056 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-23 22:49:44,919 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-23 22:49:45,128 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-23 22:49:45,191 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-23 22:49:45,490 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-23 22:49:45,497 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-23 22:49:45,499 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-23 22:49:45,499 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-23 22:49:45,902 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-23 22:49:54,163 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-24 00:02:01,839 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-24 00:02:01,880 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-25 10:35:08,178 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-25 10:35:08,180 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-25 10:35:08,181 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-25 10:35:08,482 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-25 10:35:08,483 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-25 10:35:08,875 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-25 10:35:08,875 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-25 10:35:11,616 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-25 10:35:11,810 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-25 10:35:11,888 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-25 10:35:12,158 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-25 10:35:12,162 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-25 10:35:12,163 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-25 10:35:12,164 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-25 10:35:12,591 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-25 10:35:20,891 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-25 18:07:14,980 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-25 18:07:15,067 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-25 18:08:50,170 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-25 18:08:50,173 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-25 18:08:50,173 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-25 18:08:50,509 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-25 18:08:50,509 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-25 18:08:51,026 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-25 18:08:51,026 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-25 18:08:53,862 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-25 18:08:54,129 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-25 18:08:54,200 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-25 18:08:54,540 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-25 18:08:54,546 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-25 18:08:54,576 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-25 18:08:54,576 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-25 18:08:55,137 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-25 18:09:03,738 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-25 18:13:08,136 [INFO] [MainThread] [root/controller.py:21]: Reloading Bar from context menu...
+2026-05-25 18:13:08,251 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-25 18:13:08,419 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-25 18:13:08,428 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-25 18:13:10,459 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-25 18:13:10,460 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-25 18:13:10,460 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-25 18:13:10,618 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-25 18:13:10,618 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-25 18:13:10,856 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-25 18:13:10,857 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-25 18:13:11,653 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-25 18:13:11,720 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-25 18:13:11,784 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-25 18:13:12,160 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-25 18:13:12,163 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-25 18:13:12,166 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-25 18:13:12,166 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-25 18:13:12,197 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-25 18:40:53,469 [INFO] [MainThread] [root/controller.py:21]: Reloading Bar from context menu...
+2026-05-25 18:40:53,573 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-25 18:40:53,788 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-25 18:40:53,796 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-25 18:40:55,727 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-25 18:40:55,727 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-25 18:40:55,728 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-25 18:40:55,898 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-25 18:40:55,898 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-25 18:40:56,134 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-25 18:40:56,135 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-25 18:40:57,254 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-25 18:40:57,388 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-25 18:40:57,454 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-25 18:40:57,982 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-25 18:40:57,986 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-25 18:40:57,988 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-25 18:40:57,988 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-25 18:40:58,305 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-25 18:41:40,993 [INFO] [MainThread] [root/controller.py:21]: Reloading Bar from context menu...
+2026-05-25 18:41:41,098 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-25 18:41:41,457 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-25 18:41:41,464 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-25 18:41:43,532 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-25 18:41:43,533 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-25 18:41:43,533 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-25 18:41:43,658 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-25 18:41:43,659 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-25 18:41:43,868 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-25 18:41:43,869 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-25 18:41:46,158 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-25 18:41:46,373 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-25 18:41:46,508 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-25 18:41:47,713 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-25 18:41:47,723 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-25 18:41:47,725 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-25 18:41:47,726 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-25 18:41:47,796 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-25 21:12:43,504 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-25 21:12:43,508 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-25 21:12:43,509 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-25 21:12:43,862 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-25 21:12:43,863 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-25 21:12:44,361 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-25 21:12:44,361 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-25 21:12:47,057 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-25 21:12:47,256 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-25 21:12:47,333 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-25 21:12:47,644 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-25 21:12:47,649 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-25 21:12:47,651 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-25 21:12:47,651 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-25 21:12:48,082 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-25 21:12:56,392 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-26 02:57:39,062 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-26 02:57:39,108 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-26 14:06:50,540 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-26 14:06:50,545 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-26 14:06:50,546 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-26 14:06:50,888 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-26 14:06:50,888 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-26 14:06:51,353 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-26 14:06:51,353 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-26 14:06:53,919 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-26 14:06:54,118 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-26 14:06:54,192 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-26 14:06:54,473 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-26 14:06:54,477 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-26 14:06:54,479 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-26 14:06:54,479 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-26 14:06:54,826 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-26 14:07:03,044 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-05-26 15:22:06,700 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-05-26 15:22:06,816 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-26 15:22:06,946 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-26 15:22:06,947 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-31 13:09:35,033 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-31 13:09:35,038 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-31 13:09:35,039 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-31 13:09:35,383 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-31 13:09:35,383 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-31 13:09:35,856 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-31 13:09:35,856 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-31 13:09:38,305 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-31 13:09:38,506 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-31 13:09:38,582 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-31 13:09:38,840 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-31 13:09:38,844 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-31 13:09:38,846 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-31 13:09:38,846 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-31 13:09:39,194 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-31 13:09:39,736 [WARNING] [UpdateChecker] [root/update_service.py:300]: Network error checking for updates: [Errno 11001] getaddrinfo failed
+2026-05-31 13:09:39,737 [WARNING] [UpdateChecker] [root/update_service.py:430]: Background update check failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-31 13:09:47,431 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+Windows fatal exception: code 0x8001010d
+
+Thread 0x00003d78 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003d74 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003d70 [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x000032d8 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00002650 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003a14 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Current thread 0x00002c88 (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+2026-05-31 14:13:25,667 [INFO] [MainThread] [root/controller.py:21]: Reloading Bar from context menu...
+2026-05-31 14:13:25,777 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-31 14:13:25,950 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-31 14:13:25,953 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-31 14:13:27,223 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-31 14:13:27,223 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-31 14:13:27,224 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-31 14:13:27,420 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-31 14:13:27,420 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-31 14:13:27,689 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-31 14:13:27,689 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-31 14:13:28,843 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-31 14:13:28,995 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-31 14:13:29,065 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-31 14:13:29,892 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-31 14:13:29,896 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-31 14:13:29,898 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-31 14:13:29,899 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-31 14:13:30,272 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+Windows fatal exception: code 0x800706be
+
+Thread 0x00004420 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00001a74 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x000021a8 [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x00004fc8 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00005024 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00004df8 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Current thread 0x00003aa8 (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\win32com\client\util.py", line 63 in __GetIndex
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\win32com\client\util.py", line 42 in __getitem__
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\win32com\client\dynamic.py", line 312 in __getitem__
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_context.py", line 67 in collect_window_context
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_manager.py", line 401 in get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 550 in _get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1222 in _add_window_ui
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1135 in _on_window_added
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 583 in _add_window
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 527 in _on_window_uncloaked
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 276 in <lambda>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+Windows fatal exception: code 0x800706ba
+
+Thread 0x00004420 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00001a74 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x000021a8 [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x00004fc8 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00005024 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00004df8 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Current thread 0x00003aa8 (most recent call first):
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_context.py", line 85 in collect_window_context
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_manager.py", line 401 in get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 550 in _get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1222 in _add_window_ui
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1135 in _on_window_added
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 583 in _add_window
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 527 in _on_window_uncloaked
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 276 in <lambda>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+Windows fatal exception: code 0x800706ba
+
+Thread 0x00004420 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00001a74 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x000021a8 [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x00004fc8 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00005024 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00004df8 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Current thread 0x00003aa8 (most recent call first):
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_context.py", line 85 in collect_window_context
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_manager.py", line 401 in get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 550 in _get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1222 in _add_window_ui
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1135 in _on_window_added
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 583 in _add_window
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 527 in _on_window_uncloaked
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 276 in <lambda>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+Windows fatal exception: code 0x800706ba
+
+Thread 0x00004420 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00001a74 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x000021a8 [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x00004fc8 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00005024 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00004df8 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Current thread 0x00003aa8 (most recent call first):
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_context.py", line 85 in collect_window_context
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_manager.py", line 401 in get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 550 in _get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1222 in _add_window_ui
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1135 in _on_window_added
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 583 in _add_window
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 527 in _on_window_uncloaked
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 276 in <lambda>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+2026-05-31 15:57:48,985 [INFO] [MainThread] [root/bar_helper.py:584]: AppBarManager need to re-register 1 bar
+2026-05-31 15:57:49,587 [INFO] [MainThread] [root/bar_helper.py:593]: Re-registered AppBar for status-bar_DELL S2216H_0c9adc9c (space reservation + fullscreen)
+2026-05-31 16:03:54,576 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.RemoteHostClosedError. Reconnecting...
+2026-05-31 17:24:15,528 [INFO] [MainThread] [root/bar_helper.py:584]: AppBarManager need to re-register 1 bar
+2026-05-31 17:24:15,552 [INFO] [MainThread] [root/bar_helper.py:593]: Re-registered AppBar for status-bar_DELL S2216H_0c9adc9c (space reservation + fullscreen)
+2026-05-31 17:24:48,007 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-05-31 17:24:48,119 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-31 17:24:48,342 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-31 17:24:48,347 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-31 17:27:21,537 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-31 17:27:21,542 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-31 17:27:21,543 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-31 17:27:21,911 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-31 17:27:21,911 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-31 17:27:22,358 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-31 17:27:22,358 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-31 17:27:25,186 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-31 17:27:25,399 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-31 17:27:25,472 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-31 17:27:25,762 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-31 17:27:25,769 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-31 17:27:25,773 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-31 17:27:25,773 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-31 17:27:26,169 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-31 17:27:34,458 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+Windows fatal exception: code 0x800706be
+
+Thread 0x00003790 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003780 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003784 [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x00003610 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00003574 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003568 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Current thread 0x00003544 (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\win32com\client\util.py", line 63 in __GetIndex
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\win32com\client\util.py", line 42 in __getitem__
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\win32com\client\dynamic.py", line 312 in __getitem__
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_context.py", line 67 in collect_window_context
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_manager.py", line 401 in get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 550 in _get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1222 in _add_window_ui
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1135 in _on_window_added
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 583 in _add_window
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 527 in _on_window_uncloaked
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 276 in <lambda>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+Windows fatal exception: code 0x800706ba
+
+Thread 0x00003790 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003780 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003784 [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x00003610 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00003574 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003568 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Current thread 0x00003544 (most recent call first):
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_context.py", line 85 in collect_window_context
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_manager.py", line 401 in get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 550 in _get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1222 in _add_window_ui
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1135 in _on_window_added
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 583 in _add_window
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 527 in _on_window_uncloaked
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 276 in <lambda>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+Windows fatal exception: code 0x800706ba
+
+Thread 0x00003790 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003780 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003784 [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\events\service.py", line ??? in emit_event
+  <invalid frame>
+
+Thread 0x00003610 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00003574 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003568 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Current thread 0x00003544 (most recent call first):
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_context.py", line 85 in collect_window_context
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_manager.py", line 401 in get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 550 in _get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1222 in _add_window_ui
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1135 in _on_window_added
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 583 in _add_window
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 527 in _on_window_uncloaked
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 276 in <lambda>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+Windows fatal exception: code 0x800706ba
+
+Thread 0x00003790 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003780 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003784 [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x00003610 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00003574 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003568 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Current thread 0x00003544 (most recent call first):
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_context.py", line 85 in collect_window_context
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\pin_manager.py", line 401 in get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 550 in _get_app_identifier
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1222 in _add_window_ui
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\taskbar.py", line 1135 in _on_window_added
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 583 in _add_window
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 527 in _on_window_uncloaked
+  File "D:\a\yasb\yasb\src\core\widgets\services\taskbar\window_manager.py", line 276 in <lambda>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+2026-05-31 18:05:13,080 [INFO] [MainThread] [root/bar_helper.py:584]: AppBarManager need to re-register 1 bar
+2026-05-31 18:05:13,655 [INFO] [MainThread] [root/bar_helper.py:593]: Re-registered AppBar for status-bar_DELL S2216H_53811775 (space reservation + fullscreen)
+2026-05-31 18:11:09,971 [INFO] [MainThread] [root/controller.py:21]: Reloading Bar from context menu...
+2026-05-31 18:11:10,082 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-31 18:11:10,255 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-31 18:11:10,259 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-05-31 18:11:12,005 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-05-31 18:11:12,005 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-05-31 18:11:12,006 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-05-31 18:11:12,245 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-05-31 18:11:12,246 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-05-31 18:11:12,615 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-05-31 18:11:12,616 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-05-31 18:11:14,300 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-05-31 18:11:14,518 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-05-31 18:11:14,584 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-05-31 18:11:15,310 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-05-31 18:11:15,316 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-05-31 18:11:15,318 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-05-31 18:11:15,319 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-05-31 18:11:15,847 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-05-31 18:11:51,209 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.RemoteHostClosedError. Reconnecting...
+2026-05-31 18:11:54,150 [INFO] [MainThread] [root/controller.py:43]: Exiting Application from tray...
+2026-05-31 18:11:54,254 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-05-31 18:11:54,415 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-05-31 18:11:54,417 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-06-01 00:22:29,620 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.0
+2026-06-01 00:22:29,624 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-01 00:22:29,624 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-01 00:22:29,977 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-06-01 00:22:29,978 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-06-01 00:22:30,426 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-06-01 00:22:30,426 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-06-01 00:22:33,089 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-06-01 00:22:33,298 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-01 00:22:33,374 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-06-01 00:22:33,654 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-06-01 00:22:33,658 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-06-01 00:22:33,660 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-06-01 00:22:33,660 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-01 00:22:34,069 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+Windows fatal exception: code 0x8007072c
+
+Thread 0x000038b0 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x000038a0 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x0000389c [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x00003838 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00003bf8 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003bf4 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003bbc (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\aumid_icons.py", line 122 in get_icon_for_aumid
+  File "D:\a\yasb\yasb\src\core\utils\win32\app_icons.py", line 134 in get_window_icon
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\active_window.py", line 348 in _update_window_title
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\active_window.py", line 237 in _on_focus_change_event
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+Windows fatal exception: code 0x8007072c
+
+Thread 0x000038b0 [Thread-4] (most recent call first):
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 369 in wait
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\queue.py", line 199 in get
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x000038a0 [Thread-5] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 326 in read_directory_changes
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\winapi.py", line 380 in read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 67 in _read_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\read_directory_changes.py", line 70 in queue_events
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\watchdog\observers\api.py", line 158 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x0000389c [SystemEventListener] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\event_listener.py", line 69 in run
+
+Thread 0x00003838 [_EventWorker] (most recent call first):
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 147 in _poll
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 72 in select
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\_windows.py", line 199 in run
+
+Thread 0x00003bf8 [LogPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 138 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003bf4 [CLIPipeServer] (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\bindings\kernel32.py", line 288 in ConnectNamedPipe
+  File "D:\a\yasb\yasb\src\core\utils\cli_server.py", line 235 in _run_server
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1024 in run
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1082 in _bootstrap_inner
+  File "C:\hostedtoolcache\windows\Python\3.14.4\x64\Lib\threading.py", line 1044 in _bootstrap
+
+Thread 0x00003bbc (most recent call first):
+  File "D:\a\yasb\yasb\src\core\utils\win32\aumid_icons.py", line 122 in get_icon_for_aumid
+  File "D:\a\yasb\yasb\src\core\utils\win32\app_icons.py", line 134 in get_window_icon
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\active_window.py", line 348 in _update_window_title
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\active_window.py", line 237 in _on_focus_change_event
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 404 in run_forever
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 428 in run_until_complete
+  File "main.py", line 98 in main
+  File "main.py", line 188 in <module>
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\console.py", line 27 in run
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\freeze_core\initscripts\__startup__.py", line 137 in run
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+2026-06-01 00:22:42,391 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-06-01 00:23:10,186 [INFO] [MainThread] [root/controller.py:43]: Exiting Application from context menu...
+2026-06-01 00:23:10,287 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-01 00:23:10,402 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-06-01 00:23:10,406 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-06-01 00:24:13,370 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.2
+2026-06-01 00:24:13,370 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-01 00:24:13,371 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-01 00:24:13,526 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-06-01 00:24:13,526 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-06-01 00:24:13,814 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-06-01 00:24:13,814 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-06-01 00:24:14,769 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-06-01 00:24:14,901 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-01 00:24:14,975 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-06-01 00:24:15,567 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-06-01 00:24:15,571 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-06-01 00:24:15,572 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-06-01 00:24:15,573 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-01 00:24:15,928 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-01 00:24:24,089 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-06-01 00:26:36,622 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.RemoteHostClosedError. Reconnecting...
+2026-06-01 00:28:35,095 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-06-01 00:28:35,139 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-06-01 00:30:13,580 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.2
+2026-06-01 00:30:13,584 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-01 00:30:13,585 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-01 00:30:13,936 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-06-01 00:30:13,936 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-06-01 00:30:14,354 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-06-01 00:30:14,354 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-06-01 00:30:17,009 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-06-01 00:30:17,199 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-01 00:30:17,273 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-06-01 00:30:17,554 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-06-01 00:30:17,558 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-06-01 00:30:17,562 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-06-01 00:30:17,562 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-01 00:30:17,957 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-01 00:30:26,220 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-06-01 02:18:42,906 [INFO] [MainThread] [root/bar_manager.py:118]: Stopping SystemEventListener...
+2026-06-01 02:18:42,958 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:223]: TaskbarWindowManager stopped
+2026-06-01 13:00:41,936 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.2
+2026-06-01 13:00:41,939 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-01 13:00:41,940 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-01 13:00:42,253 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarAlignment: 'center' - Use 'align' instead.
+2026-06-01 13:00:42,253 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-06-01 13:00:42,785 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'hide_empty_workspaces' - No longer supported and can be removed from the config.
+2026-06-01 13:00:42,785 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] GlazewmWorkspacesConfig: 'animation' - Use CSS animations instead.
+2026-06-01 13:00:45,502 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] PomodoroConfig: 'animation' - Use CSS animations instead.
+2026-06-01 13:00:45,696 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-01 13:00:45,771 [WARNING] [MainThread] [deprecation/deprecation.py:133]: [DEPRECATED] ApplicationsWidgetConfig: 'container_padding' - Use CSS padding instead.
+2026-06-01 13:00:46,543 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:196]: TaskbarWindowManager is starting...
+2026-06-01 13:00:46,547 [INFO] [MainThread] [root/bar_manager.py:102]: Starting SystemEventListener...
+2026-06-01 13:00:46,549 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\blueberry\.config\yasb
+2026-06-01 13:00:46,549 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-01 13:00:47,079 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-01 13:00:47,645 [WARNING] [UpdateChecker] [root/update_service.py:300]: Network error checking for updates: [Errno 11001] getaddrinfo failed
+2026-06-01 13:00:47,646 [WARNING] [UpdateChecker] [root/update_service.py:430]: Background update check failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-06-01 13:00:55,327 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
